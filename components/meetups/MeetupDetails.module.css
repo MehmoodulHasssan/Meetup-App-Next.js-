@@ -1,0 +1,23 @@
+.img {
+    height: 30rem;
+}
+
+.h1 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.div {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.address {
+    font-size: 1rem;
+}
+
+.p {
+    font-size: 1rem;
+    font-style: italic;
+}
